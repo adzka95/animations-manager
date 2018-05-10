@@ -4,7 +4,7 @@ package friendlyapps.animationsloader.api.entities;
 import com.j256.ormlite.field.DatabaseField;
 import com.j256.ormlite.table.DatabaseTable;
 
-@DatabaseTable(tableName = "accounts")
+@DatabaseTable(tableName = "pictures")
 public class Picture {
 
     @DatabaseField(generatedId=true)
