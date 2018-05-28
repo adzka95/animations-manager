@@ -105,6 +105,7 @@ public class ListAdapterPicturesContainers extends ArrayAdapter<PicturesContaine
 
                         databaseHelper.getPictureContainerDao().delete(picturesContainer);
                         items.remove(picturesContainer);
+                        hideRightPanel();
                         notifyDataSetChanged();
                     } catch (SQLException e) {
                         e.printStackTrace();
@@ -125,11 +126,23 @@ public class ListAdapterPicturesContainers extends ArrayAdapter<PicturesContaine
         return v;
     }
 
+    private void hideRightPanel(){
+        MainActivity mainActivity = (MainActivity) getContext();
+
+        mainActivity.findViewById(R.id.newList).setVisibility(View.INVISIBLE);
+
+        mainActivity.findViewById(R.id.checkBoxLEFT_TO_RIGHT).setVisibility(View.INVISIBLE);
+        mainActivity.findViewById(R.id.checkBoxSPIRAL).setVisibility(View.INVISIBLE);
+        mainActivity.findViewById(R.id.checkBoxUP_DOWN).setVisibility(View.INVISIBLE);
+
+    }
+
     private void loadPicturesToRightPanel(PicturesContainer picturesContainer){
 
         MainActivity mainActivity = (MainActivity) getContext();
 
         ListView yourListView = mainActivity.findViewById(R.id.newList);
+        yourListView.setVisibility(View.VISIBLE);
 
         // get data from the table by the ListAdapter
         ListAdapterPictures customAdapter =

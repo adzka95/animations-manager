@@ -22,8 +22,8 @@ public class DatabaseContext extends ContextWrapper {
 
     @Override
     public File getDatabasePath(String name)  {
-        File sdcard = Environment.getExternalStorageDirectory();
-        String dbfile = sdcard.getAbsolutePath() + File.separator+ "Databases" + File.separator + name;
+
+        String dbfile = Environment.getExternalStorageDirectory().getAbsolutePath() + File.separator+ "Databases" + File.separator + name;
         if (!dbfile.endsWith(".db")) {
             dbfile += ".db" ;
         }

@@ -39,7 +39,7 @@ public class MyAssetsManager {
 
             // prepare directory for user's pictures
             createDirectoryInExternalStorageIfNecessary(picturesDirectoryName +
-                    java.io.File.separator + "twoje");
+                    java.io.File.separator + "yours");
 
         } catch (IOException e) {
             e.printStackTrace();
