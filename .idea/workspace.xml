@@ -7,58 +7,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0e2b2b61-e568-45fb-a3bd-452cb6ce7e31" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.gradle/4.1/fileHashes/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/4.1/fileHashes/fileHashes.bin" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.1/fileHashes/fileHashes.lock" afterPath="$PROJECT_DIR$/.gradle/4.1/fileHashes/fileHashes.lock" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.1/javaCompile/classAnalysis.bin" afterPath="$PROJECT_DIR$/.gradle/4.1/javaCompile/classAnalysis.bin" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.1/javaCompile/javaCompile.lock" afterPath="$PROJECT_DIR$/.gradle/4.1/javaCompile/javaCompile.lock" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.1/javaCompile/taskHistory.bin" afterPath="$PROJECT_DIR$/.gradle/4.1/javaCompile/taskHistory.bin" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.1/taskHistory/fileSnapshots.bin" afterPath="$PROJECT_DIR$/.gradle/4.1/taskHistory/fileSnapshots.bin" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.1/taskHistory/taskHistory.bin" afterPath="$PROJECT_DIR$/.gradle/4.1/taskHistory/taskHistory.bin" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.1/taskHistory/taskHistory.lock" afterPath="$PROJECT_DIR$/.gradle/4.1/taskHistory/taskHistory.lock" />
-      <change beforePath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/assets/pictures/ball/basketball.png" afterPath="$PROJECT_DIR$/app/src/main/assets/pictures/Piłki/basketball.png" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/assets/pictures/ball/beach_ball.png" afterPath="$PROJECT_DIR$/app/src/main/assets/pictures/Piłki/beach_ball.png" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/assets/pictures/ball/bowling_ball.png" afterPath="$PROJECT_DIR$/app/src/main/assets/pictures/Piłki/bowling_ball.png" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/assets/pictures/ball/rugby_ball.png" afterPath="$PROJECT_DIR$/app/src/main/assets/pictures/Piłki/rugby_ball.png" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/assets/pictures/ball/soccer_ball.png" afterPath="$PROJECT_DIR$/app/src/main/assets/pictures/Piłki/soccer_ball.png" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/assets/pictures/ball/tennis_ball.png" afterPath="$PROJECT_DIR$/app/src/main/assets/pictures/Piłki/tennis_ball.png" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/assets/pictures/butterfly/butterfly_blue.png" afterPath="$PROJECT_DIR$/app/src/main/assets/pictures/Motyle/butterfly_blue.png" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/assets/pictures/butterfly/butterfly_blue_down.png" afterPath="$PROJECT_DIR$/app/src/main/assets/pictures/Motyle/butterfly_blue_down.png" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/assets/pictures/butterfly/butterfly_color.png" afterPath="$PROJECT_DIR$/app/src/main/assets/pictures/Motyle/butterfly_color.png" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/assets/pictures/butterfly/butterfly_green.png" afterPath="$PROJECT_DIR$/app/src/main/assets/pictures/Motyle/butterfly_green.png" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/assets/pictures/butterfly/butterfly_green_down.png" afterPath="$PROJECT_DIR$/app/src/main/assets/pictures/Motyle/butterfly_green_down.png" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/assets/pictures/butterfly/butterfly_green_up.png" afterPath="$PROJECT_DIR$/app/src/main/assets/pictures/Motyle/butterfly_green_up.png" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/assets/pictures/butterfly/butterfly_red.png" afterPath="$PROJECT_DIR$/app/src/main/assets/pictures/Motyle/butterfly_red.png" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/assets/pictures/butterfly/butterfly_red_up.png" afterPath="$PROJECT_DIR$/app/src/main/assets/pictures/Motyle/butterfly_red_up.png" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/assets/pictures/car/car_green_overhand.png" afterPath="$PROJECT_DIR$/app/src/main/assets/pictures/Samochody/car_green_overhand.png" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/assets/pictures/car/car_orange_overhand.png" afterPath="$PROJECT_DIR$/app/src/main/assets/pictures/Samochody/car_orange_overhand.png" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/assets/pictures/car/car_purple_overhand.png" afterPath="$PROJECT_DIR$/app/src/main/assets/pictures/Samochody/car_purple_overhand.png" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/assets/pictures/car/car_red.png" afterPath="$PROJECT_DIR$/app/src/main/assets/pictures/Samochody/car_red.png" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/assets/pictures/car/car_red_overhand.png" afterPath="$PROJECT_DIR$/app/src/main/assets/pictures/Samochody/car_red_overhand.png" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/assets/pictures/car/car_turquoise_overhand.png" afterPath="$PROJECT_DIR$/app/src/main/assets/pictures/Samochody/car_turquoise_overhand.png" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/assets/pictures/car/monster_truck.png" afterPath="$PROJECT_DIR$/app/src/main/assets/pictures/Samochody/monster_truck.png" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/assets/pictures/car/race_car.png" afterPath="$PROJECT_DIR$/app/src/main/assets/pictures/Samochody/race_car.png" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/assets/pictures/plane/plane_a.png" afterPath="$PROJECT_DIR$/app/src/main/assets/pictures/Samoloty/plane_a.png" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/assets/pictures/plane/plane_b.png" afterPath="$PROJECT_DIR$/app/src/main/assets/pictures/Samoloty/plane_b.png" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/assets/pictures/plane/plane_c.png" afterPath="$PROJECT_DIR$/app/src/main/assets/pictures/Samoloty/plane_c.png" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/assets/pictures/plane/plane_d.png" afterPath="$PROJECT_DIR$/app/src/main/assets/pictures/Samoloty/plane_d.png" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/assets/pictures/ship/boat.png" afterPath="$PROJECT_DIR$/app/src/main/assets/pictures/Statki/boat.png" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/assets/pictures/ship/boat_small.png" afterPath="$PROJECT_DIR$/app/src/main/assets/pictures/Statki/boat_small.png" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/assets/pictures/ship/container_ship.png" afterPath="$PROJECT_DIR$/app/src/main/assets/pictures/Statki/container_ship.png" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/assets/pictures/ship/ship_color.png" afterPath="$PROJECT_DIR$/app/src/main/assets/pictures/Statki/ship_color.png" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/assets/pictures/ship/ship_pirate.png" afterPath="$PROJECT_DIR$/app/src/main/assets/pictures/Statki/ship_pirate.png" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/assets/pictures/ship/soldek.png" afterPath="$PROJECT_DIR$/app/src/main/assets/pictures/Statki/soldek.png" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/assets/pictures/sun/sun.png" afterPath="$PROJECT_DIR$/app/src/main/assets/pictures/Słońca/sun.png" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/assets/pictures/train/train_a.png" afterPath="$PROJECT_DIR$/app/src/main/assets/pictures/Pociągi/train_a.png" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/assets/pictures/train/train_b.png" afterPath="$PROJECT_DIR$/app/src/main/assets/pictures/Pociągi/train_b.png" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/assets/pictures/train/train_c.png" afterPath="$PROJECT_DIR$/app/src/main/assets/pictures/Pociągi/train_c.png" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/assets/pictures/train/train_d.png" afterPath="$PROJECT_DIR$/app/src/main/assets/pictures/Pociągi/train_d.png" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/friendlyapps/animationsloader/MyAssetsManager.java" afterPath="$PROJECT_DIR$/app/src/main/java/friendlyapps/animationsloader/MyAssetsManager.java" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/friendlyapps/animationsloader/api/managers/StorageAnimationsManager.java" afterPath="$PROJECT_DIR$/app/src/main/java/friendlyapps/animationsloader/api/managers/StorageAnimationsManager.java" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/friendlyapps/animationsloader/categorylist/ListAdapterPicturesContainers.java" afterPath="$PROJECT_DIR$/app/src/main/java/friendlyapps/animationsloader/categorylist/ListAdapterPicturesContainers.java" />
       <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/categoryrow.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/categoryrow.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -100,8 +50,8 @@
       <file leaf-file-name="activity_main.xml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="249">
-              <caret line="61" column="30" lean-forward="false" selection-start-line="61" selection-start-column="30" selection-end-line="61" selection-end-column="30" />
+            <state relative-caret-position="283">
+              <caret line="63" column="28" lean-forward="true" selection-start-line="63" selection-start-column="28" selection-end-line="63" selection-end-column="28" />
               <folding />
             </state>
           </provider>
@@ -2231,6 +2181,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Android Profiler" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -2247,7 +2198,7 @@
       <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -2257,6 +2208,7 @@
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Device File Explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -2293,8 +2245,38 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="249">
-          <caret line="61" column="30" lean-forward="false" selection-start-line="61" selection-start-column="30" selection-end-line="61" selection-end-column="30" />
+        <state relative-caret-position="164">
+          <caret line="56" column="0" lean-forward="true" selection-start-line="56" selection-start-column="0" selection-end-line="56" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/friendlyapps/animationsloader/MyAssetsManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="43" column="33" lean-forward="false" selection-start-line="43" selection-start-column="33" selection-end-line="43" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/categoryrow.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="34" lean-forward="false" selection-start-line="17" selection-start-column="34" selection-end-line="17" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer2">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="283">
+          <caret line="63" column="28" lean-forward="true" selection-start-line="63" selection-start-column="28" selection-end-line="63" selection-end-column="28" />
           <folding />
         </state>
       </provider>
