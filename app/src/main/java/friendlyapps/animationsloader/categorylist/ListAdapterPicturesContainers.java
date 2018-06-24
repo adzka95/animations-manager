@@ -105,7 +105,8 @@ public class ListAdapterPicturesContainers extends ArrayAdapter<PicturesContaine
 
                         databaseHelper.getPictureContainerDao().delete(picturesContainer);
                         items.remove(picturesContainer);
-                        hideRightPanel();
+                        //hideRightPanel();
+                        loadPicturesToRightPanel(new PicturesContainer());
                         notifyDataSetChanged();
                     } catch (SQLException e) {
                         e.printStackTrace();

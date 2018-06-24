@@ -53,10 +53,6 @@ public class StorageAnimationsManager {
             for (File directoryWithPictures : directoriesWithPictures) {
                 if (!directoryWithPictures.getName().contains(".")) {
 
-                    if (directoryWithPictures.getName().equals("suns")) {
-                        continue;
-                    }
-
                     PicturesContainer picturesContainer = new PicturesContainer((directoryWithPictures.getName()));
                     File[] pictureFilesInDirectory = directoryWithPictures.listFiles();
 

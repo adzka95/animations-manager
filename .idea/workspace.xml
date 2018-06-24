@@ -6,17 +6,59 @@
     </shared>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0084d163-5782-404a-a1b8-807ff4ab3a86" name="Default" comment="">
+    <list default="true" id="0e2b2b61-e568-45fb-a3bd-452cb6ce7e31" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.gradle/4.1/fileHashes/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/4.1/fileHashes/fileHashes.bin" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.1/fileHashes/fileHashes.lock" afterPath="$PROJECT_DIR$/.gradle/4.1/fileHashes/fileHashes.lock" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.1/javaCompile/classAnalysis.bin" afterPath="$PROJECT_DIR$/.gradle/4.1/javaCompile/classAnalysis.bin" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.1/javaCompile/javaCompile.lock" afterPath="$PROJECT_DIR$/.gradle/4.1/javaCompile/javaCompile.lock" />
+      <change beforePath="$PROJECT_DIR$/.gradle/4.1/javaCompile/taskHistory.bin" afterPath="$PROJECT_DIR$/.gradle/4.1/javaCompile/taskHistory.bin" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.1/taskHistory/fileSnapshots.bin" afterPath="$PROJECT_DIR$/.gradle/4.1/taskHistory/fileSnapshots.bin" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.1/taskHistory/taskHistory.bin" afterPath="$PROJECT_DIR$/.gradle/4.1/taskHistory/taskHistory.bin" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.1/taskHistory/taskHistory.lock" afterPath="$PROJECT_DIR$/.gradle/4.1/taskHistory/taskHistory.lock" />
       <change beforePath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" afterPath="$PROJECT_DIR$/.idea/caches/build_file_checksums.ser" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/pictures/ball/basketball.png" afterPath="$PROJECT_DIR$/app/src/main/assets/pictures/Piłki/basketball.png" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/pictures/ball/beach_ball.png" afterPath="$PROJECT_DIR$/app/src/main/assets/pictures/Piłki/beach_ball.png" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/pictures/ball/bowling_ball.png" afterPath="$PROJECT_DIR$/app/src/main/assets/pictures/Piłki/bowling_ball.png" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/pictures/ball/rugby_ball.png" afterPath="$PROJECT_DIR$/app/src/main/assets/pictures/Piłki/rugby_ball.png" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/pictures/ball/soccer_ball.png" afterPath="$PROJECT_DIR$/app/src/main/assets/pictures/Piłki/soccer_ball.png" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/pictures/ball/tennis_ball.png" afterPath="$PROJECT_DIR$/app/src/main/assets/pictures/Piłki/tennis_ball.png" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/pictures/butterfly/butterfly_blue.png" afterPath="$PROJECT_DIR$/app/src/main/assets/pictures/Motyle/butterfly_blue.png" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/pictures/butterfly/butterfly_blue_down.png" afterPath="$PROJECT_DIR$/app/src/main/assets/pictures/Motyle/butterfly_blue_down.png" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/pictures/butterfly/butterfly_color.png" afterPath="$PROJECT_DIR$/app/src/main/assets/pictures/Motyle/butterfly_color.png" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/pictures/butterfly/butterfly_green.png" afterPath="$PROJECT_DIR$/app/src/main/assets/pictures/Motyle/butterfly_green.png" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/pictures/butterfly/butterfly_green_down.png" afterPath="$PROJECT_DIR$/app/src/main/assets/pictures/Motyle/butterfly_green_down.png" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/pictures/butterfly/butterfly_green_up.png" afterPath="$PROJECT_DIR$/app/src/main/assets/pictures/Motyle/butterfly_green_up.png" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/pictures/butterfly/butterfly_red.png" afterPath="$PROJECT_DIR$/app/src/main/assets/pictures/Motyle/butterfly_red.png" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/pictures/butterfly/butterfly_red_up.png" afterPath="$PROJECT_DIR$/app/src/main/assets/pictures/Motyle/butterfly_red_up.png" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/pictures/car/car_green_overhand.png" afterPath="$PROJECT_DIR$/app/src/main/assets/pictures/Samochody/car_green_overhand.png" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/pictures/car/car_orange_overhand.png" afterPath="$PROJECT_DIR$/app/src/main/assets/pictures/Samochody/car_orange_overhand.png" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/pictures/car/car_purple_overhand.png" afterPath="$PROJECT_DIR$/app/src/main/assets/pictures/Samochody/car_purple_overhand.png" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/pictures/car/car_red.png" afterPath="$PROJECT_DIR$/app/src/main/assets/pictures/Samochody/car_red.png" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/pictures/car/car_red_overhand.png" afterPath="$PROJECT_DIR$/app/src/main/assets/pictures/Samochody/car_red_overhand.png" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/pictures/car/car_turquoise_overhand.png" afterPath="$PROJECT_DIR$/app/src/main/assets/pictures/Samochody/car_turquoise_overhand.png" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/pictures/car/monster_truck.png" afterPath="$PROJECT_DIR$/app/src/main/assets/pictures/Samochody/monster_truck.png" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/pictures/car/race_car.png" afterPath="$PROJECT_DIR$/app/src/main/assets/pictures/Samochody/race_car.png" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/pictures/plane/plane_a.png" afterPath="$PROJECT_DIR$/app/src/main/assets/pictures/Samoloty/plane_a.png" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/pictures/plane/plane_b.png" afterPath="$PROJECT_DIR$/app/src/main/assets/pictures/Samoloty/plane_b.png" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/pictures/plane/plane_c.png" afterPath="$PROJECT_DIR$/app/src/main/assets/pictures/Samoloty/plane_c.png" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/pictures/plane/plane_d.png" afterPath="$PROJECT_DIR$/app/src/main/assets/pictures/Samoloty/plane_d.png" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/pictures/ship/boat.png" afterPath="$PROJECT_DIR$/app/src/main/assets/pictures/Statki/boat.png" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/pictures/ship/boat_small.png" afterPath="$PROJECT_DIR$/app/src/main/assets/pictures/Statki/boat_small.png" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/pictures/ship/container_ship.png" afterPath="$PROJECT_DIR$/app/src/main/assets/pictures/Statki/container_ship.png" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/pictures/ship/ship_color.png" afterPath="$PROJECT_DIR$/app/src/main/assets/pictures/Statki/ship_color.png" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/pictures/ship/ship_pirate.png" afterPath="$PROJECT_DIR$/app/src/main/assets/pictures/Statki/ship_pirate.png" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/pictures/ship/soldek.png" afterPath="$PROJECT_DIR$/app/src/main/assets/pictures/Statki/soldek.png" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/pictures/sun/sun.png" afterPath="$PROJECT_DIR$/app/src/main/assets/pictures/Słońca/sun.png" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/pictures/train/train_a.png" afterPath="$PROJECT_DIR$/app/src/main/assets/pictures/Pociągi/train_a.png" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/pictures/train/train_b.png" afterPath="$PROJECT_DIR$/app/src/main/assets/pictures/Pociągi/train_b.png" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/pictures/train/train_c.png" afterPath="$PROJECT_DIR$/app/src/main/assets/pictures/Pociągi/train_c.png" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/pictures/train/train_d.png" afterPath="$PROJECT_DIR$/app/src/main/assets/pictures/Pociągi/train_d.png" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/friendlyapps/animationsloader/MyAssetsManager.java" afterPath="$PROJECT_DIR$/app/src/main/java/friendlyapps/animationsloader/MyAssetsManager.java" />
       <change beforePath="$PROJECT_DIR$/app/src/main/java/friendlyapps/animationsloader/api/managers/StorageAnimationsManager.java" afterPath="$PROJECT_DIR$/app/src/main/java/friendlyapps/animationsloader/api/managers/StorageAnimationsManager.java" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/friendlyapps/animationsloader/categorylist/ListAdapterPicturesContainers.java" afterPath="$PROJECT_DIR$/app/src/main/java/friendlyapps/animationsloader/categorylist/ListAdapterPicturesContainers.java" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/categoryrow.xml" afterPath="$PROJECT_DIR$/app/src/main/res/layout/categoryrow.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -30,55 +72,41 @@
       <ProjectState />
     </projectState>
   </component>
-  <component name="ExternalProjectsManager">
-    <system id="GRADLE">
-      <state>
-        <projects_view />
-      </state>
-    </system>
-  </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="activity_main.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
-          <provider editor-type-id="android-designer2">
-            <state />
-          </provider>
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="398">
-              <caret line="44" column="30" lean-forward="false" selection-start-line="44" selection-start-column="30" selection-end-line="44" selection-end-column="30" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="StorageAnimationsManager.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/friendlyapps/animationsloader/api/managers/StorageAnimationsManager.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="329">
-              <caret line="66" column="21" lean-forward="false" selection-start-line="66" selection-start-column="21" selection-end-line="66" selection-end-column="21" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="MyAssetsManager.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/friendlyapps/animationsloader/MyAssetsManager.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="159">
-              <caret line="32" column="16" lean-forward="false" selection-start-line="32" selection-start-column="16" selection-end-line="32" selection-end-column="16" />
+            <state relative-caret-position="272">
+              <caret line="43" column="33" lean-forward="false" selection-start-line="43" selection-start-column="33" selection-end-line="43" selection-end-column="33" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MainActivity.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/friendlyapps/animationsloader/MainActivity.java">
+      <file leaf-file-name="categoryrow.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/categoryrow.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="159">
-              <caret line="193" column="24" lean-forward="false" selection-start-line="193" selection-start-column="24" selection-end-line="193" selection-end-column="24" />
+            <state relative-caret-position="289">
+              <caret line="17" column="34" lean-forward="false" selection-start-line="17" selection-start-column="34" selection-end-line="17" selection-end-column="34" />
               <folding />
             </state>
+          </provider>
+          <provider editor-type-id="android-designer2">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="activity_main.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="249">
+              <caret line="61" column="30" lean-forward="false" selection-start-line="61" selection-start-column="30" selection-end-line="61" selection-end-column="30" />
+              <folding />
+            </state>
+          </provider>
+          <provider editor-type-id="android-designer2">
+            <state />
           </provider>
         </entry>
       </file>
@@ -86,9 +114,17 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>task</find>
       <find>yours</find>
+      <find>font</find>
+      <find>default</find>
+      <find>LEFT_TO_</find>
+      <find>LEFT_TO_RIGHT</find>
+      <find>UP_DOWN</find>
     </findStrings>
+    <replaceStrings>
+      <replace>POZIOMO</replace>
+      <replace>PIONOWO</replace>
+    </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -1944,7 +1980,9 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/app/src/main/java/friendlyapps/animationsloader/api/managers/StorageAnimationsManager.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/friendlyapps/animationsloader/MyAssetsManager.java" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/categoryrow.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" />
       </list>
     </option>
   </component>
@@ -1968,9 +2006,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
-      <pane id="Scratches" />
+      <pane id="PackagesPane" />
       <pane id="AndroidView">
         <subPane>
           <expand>
@@ -1992,28 +2029,7 @@
             <path>
               <item name="animations-manager" type="1abcf292:AndroidViewProjectNode" />
               <item name="app" type="feadf853:AndroidModuleNode" />
-              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
-              <item name="animationsloader" type="cbb59c9e:AndroidPsiDirectoryNode" />
-              <item name="api" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="animations-manager" type="1abcf292:AndroidViewProjectNode" />
-              <item name="app" type="feadf853:AndroidModuleNode" />
-              <item name="java" type="edd41e36:AndroidSourceTypeNode" />
-              <item name="animationsloader" type="cbb59c9e:AndroidPsiDirectoryNode" />
-              <item name="api" type="462c0819:PsiDirectoryNode" />
-              <item name="managers" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="animations-manager" type="1abcf292:AndroidViewProjectNode" />
-              <item name="app" type="feadf853:AndroidModuleNode" />
               <item name="res" type="d4f16f75:AndroidResFolderNode" />
-            </path>
-            <path>
-              <item name="animations-manager" type="1abcf292:AndroidViewProjectNode" />
-              <item name="app" type="feadf853:AndroidModuleNode" />
-              <item name="res" type="d4f16f75:AndroidResFolderNode" />
-              <item name="drawable" type="ddeffd01:AndroidResFolderTypeNode" />
             </path>
             <path>
               <item name="animations-manager" type="1abcf292:AndroidViewProjectNode" />
@@ -2021,29 +2037,18 @@
               <item name="res" type="d4f16f75:AndroidResFolderNode" />
               <item name="layout" type="ddeffd01:AndroidResFolderTypeNode" />
             </path>
-            <path>
-              <item name="animations-manager" type="1abcf292:AndroidViewProjectNode" />
-              <item name="app" type="feadf853:AndroidModuleNode" />
-              <item name="res" type="d4f16f75:AndroidResFolderNode" />
-              <item name="mipmap" type="ddeffd01:AndroidResFolderTypeNode" />
-            </path>
-            <path>
-              <item name="animations-manager" type="1abcf292:AndroidViewProjectNode" />
-              <item name="app" type="feadf853:AndroidModuleNode" />
-              <item name="res" type="d4f16f75:AndroidResFolderNode" />
-              <item name="values" type="ddeffd01:AndroidResFolderTypeNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scratches" />
       <pane id="ProjectPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../friendly-emotions" />
-    <property name="device.picker.selection" value="CB5A1UFQLC" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="device.picker.selection" value="Nexus_10_API_19" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -2216,107 +2221,85 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="0084d163-5782-404a-a1b8-807ff4ab3a86" name="Default" comment="" />
-      <created>1528161137308</created>
+      <changelist id="0e2b2b61-e568-45fb-a3bd-452cb6ce7e31" name="Default" comment="" />
+      <created>1529834818327</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1528161137308</updated>
+      <updated>1529834818327</updated>
     </task>
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info id="Android Profiler" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Android Profiler" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.53513515" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Logcat" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Logcat" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Device File Explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19601542" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
-      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3189189" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Device File Explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/app/src/main/java/friendlyapps/animationsloader/api/managers/StorageAnimationsManager.java</url>
-          <line>52</line>
-          <properties />
-          <option name="timeStamp" value="3" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/app/src/main/java/friendlyapps/animationsloader/api/managers/StorageAnimationsManager.java</url>
-          <line>63</line>
-          <properties />
-          <option name="timeStamp" value="4" />
-        </line-breakpoint>
-      </breakpoints>
-      <option name="time" value="5" />
-    </breakpoint-manager>
+    <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/friendlyapps/animationsloader/MyAssetsManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="43" column="33" lean-forward="false" selection-start-line="43" selection-start-column="33" selection-end-line="43" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/categoryrow.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="34" lean-forward="false" selection-start-line="17" selection-start-column="34" selection-end-line="17" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
       <provider editor-type-id="android-designer2">
         <state />
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="398">
-          <caret line="44" column="30" lean-forward="false" selection-start-line="44" selection-start-column="30" selection-end-line="44" selection-end-column="30" />
+        <state relative-caret-position="249">
+          <caret line="61" column="30" lean-forward="false" selection-start-line="61" selection-start-column="30" selection-end-line="61" selection-end-column="30" />
           <folding />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/friendlyapps/animationsloader/MyAssetsManager.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="159">
-          <caret line="32" column="16" lean-forward="false" selection-start-line="32" selection-start-column="16" selection-end-line="32" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/friendlyapps/animationsloader/MainActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="159">
-          <caret line="193" column="24" lean-forward="false" selection-start-line="193" selection-start-column="24" selection-end-line="193" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/friendlyapps/animationsloader/api/managers/StorageAnimationsManager.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="329">
-          <caret line="66" column="21" lean-forward="false" selection-start-line="66" selection-start-column="21" selection-end-line="66" selection-end-column="21" />
-          <folding />
-        </state>
+      <provider editor-type-id="android-designer2">
+        <state />
       </provider>
     </entry>
   </component>
