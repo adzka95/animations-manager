@@ -1,6 +1,8 @@
 package friendlyapps.animationsloader.categorylist;
 
+import android.app.AlertDialog;
 import android.content.Context;
+import android.content.DialogInterface;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
@@ -25,15 +27,11 @@ public class ListAdapterPicturesContainers extends ArrayAdapter<PicturesContaine
 
     DatabaseHelper databaseHelper;
     List<PicturesContainer> items;
-
-    public ListAdapterPicturesContainers(Context context, int textViewResourceId) {
-        super(context, textViewResourceId);
-
-        databaseHelper = new DatabaseHelper(context);
-    }
+    Context context;
 
     public ListAdapterPicturesContainers(Context context, int resource, List<PicturesContainer> items) {
         super(context, resource, items);
+        this.context = context;
         this.items = items;
         databaseHelper = new DatabaseHelper(context);
     }
@@ -49,21 +47,21 @@ public class ListAdapterPicturesContainers extends ArrayAdapter<PicturesContaine
             v = vi.inflate(R.layout.categoryrow, null);
         }
 
-        final PicturesContainer picturesContainer = getItem(position);
+        final PicturesContainer currentPicturesContainer = getItem(position);
 
-        if (picturesContainer != null) {
+        if (currentPicturesContainer != null) {
             TextView tt1 = v.findViewById(R.id.categoryName);
             final CheckBox tt2 = v.findViewById(R.id.isEnabled);
             final ImageButton deleteButton = v.findViewById(R.id.delete_btn);
             final ImageButton editButton = v.findViewById(R.id.edit_btn);
 
             if (tt1 != null) {
-                tt1.setText(picturesContainer.getCategoryName());
+                tt1.setText(currentPicturesContainer.getCategoryName());
             }
 
             if (tt2 != null) {
 
-                if(picturesContainer.getEnabled() == 1){
+                if(currentPicturesContainer.getEnabled() == 1){
                     tt2.setChecked(true);
                 }
                 else{
@@ -77,14 +75,14 @@ public class ListAdapterPicturesContainers extends ArrayAdapter<PicturesContaine
                 public void onClick(View v) {
 
                     if(tt2.isChecked()){
-                        picturesContainer.setEnabled(1);
+                        currentPicturesContainer.setEnabled(1);
                     }
                     else{
-                        picturesContainer.setEnabled(0);
+                        currentPicturesContainer.setEnabled(0);
                     }
 
                     try {
-                        databaseHelper.getPictureContainerDao().update(picturesContainer);
+                        databaseHelper.getPictureContainerDao().update(currentPicturesContainer);
                     } catch (SQLException e) {
                         e.printStackTrace();
                     }
@@ -96,21 +94,8 @@ public class ListAdapterPicturesContainers extends ArrayAdapter<PicturesContaine
                 @Override
                 public void onClick(View v) {
 
-                    try {
-                        StorageAnimationsManager.getInstance().deletePicturesContainerFromStorage(picturesContainer);
+                    confirmAndDeleteCategory(currentPicturesContainer);
 
-                        for(Picture picture : picturesContainer.getPicturesInCategory()){
-                            databaseHelper.getPictureDao().delete(picture);
-                        }
-
-                        databaseHelper.getPictureContainerDao().delete(picturesContainer);
-                        items.remove(picturesContainer);
-                        //hideRightPanel();
-                        loadPicturesToRightPanel(new PicturesContainer());
-                        notifyDataSetChanged();
-                    } catch (SQLException e) {
-                        e.printStackTrace();
-                    }
                 }
             });
 
@@ -118,7 +103,7 @@ public class ListAdapterPicturesContainers extends ArrayAdapter<PicturesContaine
                 @Override
                 public void onClick(View v) {
 
-                    loadPicturesToRightPanel(picturesContainer);
+                    loadPicturesToRightPanel(currentPicturesContainer);
 
                 }
             });
@@ -169,6 +154,44 @@ public class ListAdapterPicturesContainers extends ArrayAdapter<PicturesContaine
         checkBoxSPIRAL.setChecked(mainActivity.getCurrentPicturesContainer().getAnimationTypes().contains("SPIRAL"));
         checkBoxUP_DOWN.setChecked(mainActivity.getCurrentPicturesContainer().getAnimationTypes().contains("UP_DOWN"));
 
+    }
+
+    public void confirmAndDeleteCategory(final PicturesContainer currentPicturesContainer) {
+
+        AlertDialog.Builder builder = new AlertDialog.Builder(context);
+
+        builder
+                .setMessage("Are you sure?")
+                .setPositiveButton("Yes",  new DialogInterface.OnClickListener() {
+                    @Override
+                    public void onClick(DialogInterface dialog, int id) {
+                        // Yes-code
+
+                        try {
+                            StorageAnimationsManager.getInstance().deletePicturesContainerFromStorage(currentPicturesContainer);
+
+                            for(Picture picture : currentPicturesContainer.getPicturesInCategory()){
+                                databaseHelper.getPictureDao().delete(picture);
+                            }
+
+                            databaseHelper.getPictureContainerDao().delete(currentPicturesContainer);
+                            items.remove(currentPicturesContainer);
+                            hideRightPanel();
+                            notifyDataSetChanged();
+                        } catch (SQLException e) {
+                            e.printStackTrace();
+                        }
+
+
+                    }
+                })
+                .setNegativeButton("No", new DialogInterface.OnClickListener() {
+                    @Override
+                    public void onClick(DialogInterface dialog,int id) {
+                        dialog.cancel();
+                    }
+                })
+                .show();
     }
 
 }

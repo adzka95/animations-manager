@@ -1,6 +1,8 @@
 package friendlyapps.animationsloader.categorylist;
 
+import android.app.AlertDialog;
 import android.content.Context;
+import android.content.DialogInterface;
 import android.graphics.Bitmap;
 import android.graphics.BitmapFactory;
 import android.util.Log;
@@ -29,15 +31,11 @@ public class ListAdapterPictures extends ArrayAdapter<Picture> {
     DatabaseHelper databaseHelper;
     List<Picture> items;
     PicturesContainer picturesContainer;
-
-    public ListAdapterPictures(Context context, int textViewResourceId) {
-        super(context, textViewResourceId);
-
-        databaseHelper = new DatabaseHelper(context);
-    }
+    Context context;
 
     public ListAdapterPictures(Context context, int resource, List<Picture> items, PicturesContainer picturesContainer) {
         super(context, resource, items);
+        this.context = context;
         this.items = items;
         databaseHelper = new DatabaseHelper(context);
         this.picturesContainer = picturesContainer;
@@ -97,15 +95,8 @@ public class ListAdapterPictures extends ArrayAdapter<Picture> {
                 @Override
                 public void onClick(View v) {
 
-                    try {
-                        StorageAnimationsManager.getInstance().deletePictureFromStorage(picture);
-                        databaseHelper.getPictureDao().delete(picture);
-                        items.remove(picture);
-                        picturesContainer.getPicturesInCategory().remove(picture);
-                        notifyDataSetChanged();
-                    } catch (SQLException e) {
-                        e.printStackTrace();
-                    }
+                    confirmAndDeletePicture(picture);
+
                 }
             });
 
@@ -138,6 +129,38 @@ public class ListAdapterPictures extends ArrayAdapter<Picture> {
             Log.i("Files", "Picture loaded from path: " + picture.getPath());
 
         }
+    }
+
+    public void confirmAndDeletePicture(final Picture picture) {
+
+        AlertDialog.Builder builder = new AlertDialog.Builder(context);
+
+        builder
+                .setMessage("Are you sure?")
+                .setPositiveButton("Yes",  new DialogInterface.OnClickListener() {
+                    @Override
+                    public void onClick(DialogInterface dialog, int id) {
+                        // Yes-code
+
+                        try {
+                            StorageAnimationsManager.getInstance().deletePictureFromStorage(picture);
+                            databaseHelper.getPictureDao().delete(picture);
+                            items.remove(picture);
+                            picturesContainer.getPicturesInCategory().remove(picture);
+                            notifyDataSetChanged();
+                        } catch (SQLException e) {
+                            e.printStackTrace();
+                        }
+
+                    }
+                })
+                .setNegativeButton("No", new DialogInterface.OnClickListener() {
+                    @Override
+                    public void onClick(DialogInterface dialog,int id) {
+                        dialog.cancel();
+                    }
+                })
+                .show();
     }
 
 
