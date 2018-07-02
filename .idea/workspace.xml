@@ -12,13 +12,48 @@
       <change beforePath="$PROJECT_DIR$/.gradle/4.1/javaCompile/classAnalysis.bin" afterPath="$PROJECT_DIR$/.gradle/4.1/javaCompile/classAnalysis.bin" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.1/javaCompile/javaCompile.lock" afterPath="$PROJECT_DIR$/.gradle/4.1/javaCompile/javaCompile.lock" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.1/javaCompile/taskHistory.bin" afterPath="$PROJECT_DIR$/.gradle/4.1/javaCompile/taskHistory.bin" />
-      <change beforePath="$PROJECT_DIR$/.gradle/4.1/javaCompile/taskJars.bin" afterPath="$PROJECT_DIR$/.gradle/4.1/javaCompile/taskJars.bin" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.1/taskHistory/fileSnapshots.bin" afterPath="$PROJECT_DIR$/.gradle/4.1/taskHistory/fileSnapshots.bin" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.1/taskHistory/taskHistory.bin" afterPath="$PROJECT_DIR$/.gradle/4.1/taskHistory/taskHistory.bin" />
       <change beforePath="$PROJECT_DIR$/.gradle/4.1/taskHistory/taskHistory.lock" afterPath="$PROJECT_DIR$/.gradle/4.1/taskHistory/taskHistory.lock" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/app/app.iml" afterPath="$PROJECT_DIR$/app/app.iml" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/friendlyapps/animationsloader/categorylist/ListAdapterPictures.java" afterPath="$PROJECT_DIR$/app/src/main/java/friendlyapps/animationsloader/categorylist/ListAdapterPictures.java" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/pictures/Motyle/butterfly_blue.png" afterPath="$PROJECT_DIR$/app/src/main/assets/pictures/Butterflies/butterfly_blue.png" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/pictures/Motyle/butterfly_blue_down.png" afterPath="$PROJECT_DIR$/app/src/main/assets/pictures/Butterflies/butterfly_blue_down.png" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/pictures/Motyle/butterfly_color.png" afterPath="$PROJECT_DIR$/app/src/main/assets/pictures/Butterflies/butterfly_color.png" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/pictures/Motyle/butterfly_green.png" afterPath="$PROJECT_DIR$/app/src/main/assets/pictures/Butterflies/butterfly_green.png" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/pictures/Motyle/butterfly_green_down.png" afterPath="$PROJECT_DIR$/app/src/main/assets/pictures/Butterflies/butterfly_green_down.png" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/pictures/Motyle/butterfly_green_up.png" afterPath="$PROJECT_DIR$/app/src/main/assets/pictures/Butterflies/butterfly_green_up.png" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/pictures/Motyle/butterfly_red.png" afterPath="$PROJECT_DIR$/app/src/main/assets/pictures/Butterflies/butterfly_red.png" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/pictures/Motyle/butterfly_red_up.png" afterPath="$PROJECT_DIR$/app/src/main/assets/pictures/Butterflies/butterfly_red_up.png" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/pictures/Piłki/basketball.png" afterPath="$PROJECT_DIR$/app/src/main/assets/pictures/Balls/basketball.png" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/pictures/Piłki/beach_ball.png" afterPath="$PROJECT_DIR$/app/src/main/assets/pictures/Balls/beach_ball.png" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/pictures/Piłki/bowling_ball.png" afterPath="$PROJECT_DIR$/app/src/main/assets/pictures/Balls/bowling_ball.png" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/pictures/Piłki/rugby_ball.png" afterPath="$PROJECT_DIR$/app/src/main/assets/pictures/Balls/rugby_ball.png" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/pictures/Piłki/soccer_ball.png" afterPath="$PROJECT_DIR$/app/src/main/assets/pictures/Balls/soccer_ball.png" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/pictures/Piłki/tennis_ball.png" afterPath="$PROJECT_DIR$/app/src/main/assets/pictures/Balls/tennis_ball.png" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/pictures/Pociągi/train_a.png" afterPath="$PROJECT_DIR$/app/src/main/assets/pictures/Trains/train_a.png" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/pictures/Pociągi/train_b.png" afterPath="$PROJECT_DIR$/app/src/main/assets/pictures/Trains/train_b.png" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/pictures/Pociągi/train_c.png" afterPath="$PROJECT_DIR$/app/src/main/assets/pictures/Trains/train_c.png" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/pictures/Pociągi/train_d.png" afterPath="$PROJECT_DIR$/app/src/main/assets/pictures/Trains/train_d.png" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/pictures/Samochody/car_green_overhand.png" afterPath="$PROJECT_DIR$/app/src/main/assets/pictures/Cars/car_green_overhand.png" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/pictures/Samochody/car_orange_overhand.png" afterPath="$PROJECT_DIR$/app/src/main/assets/pictures/Cars/car_orange_overhand.png" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/pictures/Samochody/car_purple_overhand.png" afterPath="$PROJECT_DIR$/app/src/main/assets/pictures/Cars/car_purple_overhand.png" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/pictures/Samochody/car_red.png" afterPath="$PROJECT_DIR$/app/src/main/assets/pictures/Cars/car_red.png" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/pictures/Samochody/car_red_overhand.png" afterPath="$PROJECT_DIR$/app/src/main/assets/pictures/Cars/car_red_overhand.png" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/pictures/Samochody/car_turquoise_overhand.png" afterPath="$PROJECT_DIR$/app/src/main/assets/pictures/Cars/car_turquoise_overhand.png" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/pictures/Samochody/monster_truck.png" afterPath="$PROJECT_DIR$/app/src/main/assets/pictures/Cars/monster_truck.png" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/pictures/Samochody/race_car.png" afterPath="$PROJECT_DIR$/app/src/main/assets/pictures/Cars/race_car.png" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/pictures/Samoloty/plane_a.png" afterPath="$PROJECT_DIR$/app/src/main/assets/pictures/Planes/plane_a.png" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/pictures/Samoloty/plane_b.png" afterPath="$PROJECT_DIR$/app/src/main/assets/pictures/Planes/plane_b.png" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/pictures/Samoloty/plane_c.png" afterPath="$PROJECT_DIR$/app/src/main/assets/pictures/Planes/plane_c.png" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/pictures/Samoloty/plane_d.png" afterPath="$PROJECT_DIR$/app/src/main/assets/pictures/Planes/plane_d.png" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/pictures/Statki/boat.png" afterPath="$PROJECT_DIR$/app/src/main/assets/pictures/Ships/boat.png" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/pictures/Statki/boat_small.png" afterPath="$PROJECT_DIR$/app/src/main/assets/pictures/Ships/boat_small.png" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/pictures/Statki/container_ship.png" afterPath="$PROJECT_DIR$/app/src/main/assets/pictures/Ships/container_ship.png" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/pictures/Statki/ship_color.png" afterPath="$PROJECT_DIR$/app/src/main/assets/pictures/Ships/ship_color.png" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/pictures/Statki/ship_pirate.png" afterPath="$PROJECT_DIR$/app/src/main/assets/pictures/Ships/ship_pirate.png" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/pictures/Statki/soldek.png" afterPath="$PROJECT_DIR$/app/src/main/assets/pictures/Ships/soldek.png" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/assets/pictures/Słońca/sun.png" afterPath="$PROJECT_DIR$/app/src/main/assets/pictures/Suns/sun.png" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/friendlyapps/animationsloader/MyAssetsManager.java" afterPath="$PROJECT_DIR$/app/src/main/java/friendlyapps/animationsloader/MyAssetsManager.java" />
       <change beforePath="$PROJECT_DIR$/app/src/main/java/friendlyapps/animationsloader/categorylist/ListAdapterPicturesContainers.java" afterPath="$PROJECT_DIR$/app/src/main/java/friendlyapps/animationsloader/categorylist/ListAdapterPicturesContainers.java" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -45,18 +80,18 @@
       <file leaf-file-name="MyAssetsManager.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/friendlyapps/animationsloader/MyAssetsManager.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="43" column="33" lean-forward="false" selection-start-line="43" selection-start-column="33" selection-end-line="43" selection-end-column="33" />
+            <state relative-caret-position="154">
+              <caret line="41" column="52" lean-forward="false" selection-start-line="41" selection-start-column="52" selection-end-line="41" selection-end-column="52" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ListAdapterPictures.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="ListAdapterPictures.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/friendlyapps/animationsloader/categorylist/ListAdapterPictures.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="167">
-              <caret line="107" column="17" lean-forward="true" selection-start-line="107" selection-start-column="17" selection-end-line="107" selection-end-column="17" />
+            <state relative-caret-position="153">
+              <caret line="105" column="9" lean-forward="false" selection-start-line="105" selection-start-column="9" selection-end-line="105" selection-end-column="9" />
               <folding>
                 <element signature="e#4175#4920#0" expanded="true" />
                 <element signature="e#4919#4920#0" expanded="true" />
@@ -67,16 +102,16 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ListAdapterPicturesContainers.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="ListAdapterPicturesContainers.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/friendlyapps/animationsloader/categorylist/ListAdapterPicturesContainers.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="193">
-              <caret line="96" column="20" lean-forward="false" selection-start-line="96" selection-start-column="20" selection-end-line="96" selection-end-column="20" />
+            <state relative-caret-position="676">
+              <caret line="207" column="29" lean-forward="false" selection-start-line="207" selection-start-column="29" selection-end-line="207" selection-end-column="29" />
               <folding>
-                <element signature="e#5899#6887#0" expanded="true" />
-                <element signature="e#6886#6887#0" expanded="true" />
-                <element signature="e#6930#7153#0" expanded="true" />
-                <element signature="e#7152#7153#0" expanded="true" />
+                <element signature="e#5971#6959#0" expanded="true" />
+                <element signature="e#6958#6959#0" expanded="true" />
+                <element signature="e#7002#7225#0" expanded="true" />
+                <element signature="e#7224#7225#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -101,18 +136,8 @@
             <state />
           </provider>
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="986">
+            <state relative-caret-position="198">
               <caret line="58" column="29" lean-forward="false" selection-start-line="58" selection-start-column="29" selection-end-line="58" selection-end-column="29" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="workspace.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="25" column="47" lean-forward="false" selection-start-line="25" selection-start-column="47" selection-end-line="25" selection-end-column="47" />
               <folding />
             </state>
           </provider>
@@ -136,6 +161,7 @@
       <find>LEFT_TO_RIGHT</find>
       <find>UP_DOWN</find>
       <find>hideRightPanel</find>
+      <find>Twoje</find>
     </findStrings>
     <replaceStrings>
       <replace>POZIOMO</replace>
@@ -2000,11 +2026,11 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/app/src/main/java/friendlyapps/animationsloader/MyAssetsManager.java" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/categoryrow.xml" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" />
         <option value="$PROJECT_DIR$/app/src/main/java/friendlyapps/animationsloader/categorylist/ListAdapterUtils.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/friendlyapps/animationsloader/categorylist/ListAdapterPictures.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/friendlyapps/animationsloader/MyAssetsManager.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/friendlyapps/animationsloader/categorylist/ListAdapterPicturesContainers.java" />
       </list>
     </option>
@@ -2060,6 +2086,28 @@
               <item name="java" type="edd41e36:AndroidSourceTypeNode" />
               <item name="animationsloader" type="cbb59c9e:AndroidPsiDirectoryNode" />
               <item name="categorylist" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="animations-manager" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="assets" type="edd41e36:AndroidSourceTypeNode" />
+            </path>
+            <path>
+              <item name="animations-manager" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="assets" type="edd41e36:AndroidSourceTypeNode" />
+              <item name="pictures" type="cbb59c9e:AndroidPsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="animations-manager" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="res" type="d4f16f75:AndroidResFolderNode" />
+            </path>
+            <path>
+              <item name="animations-manager" type="1abcf292:AndroidViewProjectNode" />
+              <item name="app" type="feadf853:AndroidModuleNode" />
+              <item name="res" type="d4f16f75:AndroidResFolderNode" />
+              <item name="layout" type="ddeffd01:AndroidResFolderTypeNode" />
             </path>
           </expand>
           <select />
@@ -2261,7 +2309,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Android Profiler" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -2270,9 +2317,10 @@
       <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
+      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32972974" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.6608108" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Logcat" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -2282,9 +2330,9 @@
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Device File Explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
+      <window_info id="Device File Explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2577121" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25405404" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.6135135" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -2292,7 +2340,6 @@
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -2300,7 +2347,7 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="1" />
+      <option name="time" value="2" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -2403,14 +2450,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="25" column="47" lean-forward="false" selection-start-line="25" selection-start-column="47" selection-end-line="25" selection-end-column="47" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/friendlyapps/animationsloader/MyAssetsManager.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="272">
@@ -2512,25 +2551,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
-      <provider editor-type-id="android-designer2">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="986">
-          <caret line="58" column="29" lean-forward="false" selection-start-line="58" selection-start-column="29" selection-end-line="58" selection-end-column="29" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/friendlyapps/animationsloader/MyAssetsManager.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="43" column="33" lean-forward="false" selection-start-line="43" selection-start-column="33" selection-end-line="43" selection-end-column="33" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/friendlyapps/animationsloader/categorylist/ListAdapterUtils.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
@@ -2539,28 +2559,55 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/friendlyapps/animationsloader/categorylist/ListAdapterPicturesContainers.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="193">
-          <caret line="96" column="20" lean-forward="false" selection-start-line="96" selection-start-column="20" selection-end-line="96" selection-end-column="20" />
-          <folding>
-            <element signature="e#5899#6887#0" expanded="true" />
-            <element signature="e#6886#6887#0" expanded="true" />
-            <element signature="e#6930#7153#0" expanded="true" />
-            <element signature="e#7152#7153#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/friendlyapps/animationsloader/categorylist/ListAdapterPictures.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="167">
-          <caret line="107" column="17" lean-forward="true" selection-start-line="107" selection-start-column="17" selection-end-line="107" selection-end-column="17" />
+        <state relative-caret-position="153">
+          <caret line="105" column="9" lean-forward="false" selection-start-line="105" selection-start-column="9" selection-end-line="105" selection-end-column="9" />
           <folding>
             <element signature="e#4175#4920#0" expanded="true" />
             <element signature="e#4919#4920#0" expanded="true" />
             <element signature="e#4963#5186#0" expanded="true" />
             <element signature="e#5185#5186#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-42884">
+          <caret line="13" column="47" lean-forward="false" selection-start-line="13" selection-start-column="47" selection-end-line="13" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml">
+      <provider editor-type-id="android-designer2">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="58" column="29" lean-forward="false" selection-start-line="58" selection-start-column="29" selection-end-line="58" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/friendlyapps/animationsloader/MyAssetsManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="41" column="52" lean-forward="false" selection-start-line="41" selection-start-column="52" selection-end-line="41" selection-end-column="52" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/friendlyapps/animationsloader/categorylist/ListAdapterPicturesContainers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="676">
+          <caret line="207" column="29" lean-forward="false" selection-start-line="207" selection-start-column="29" selection-end-line="207" selection-end-column="29" />
+          <folding>
+            <element signature="e#5971#6959#0" expanded="true" />
+            <element signature="e#6958#6959#0" expanded="true" />
+            <element signature="e#7002#7225#0" expanded="true" />
+            <element signature="e#7224#7225#0" expanded="true" />
           </folding>
         </state>
       </provider>

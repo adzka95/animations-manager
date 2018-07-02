@@ -3,6 +3,7 @@ package friendlyapps.animationsloader.categorylist;
 import android.app.AlertDialog;
 import android.content.Context;
 import android.content.DialogInterface;
+import android.content.res.Resources;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
@@ -56,7 +57,7 @@ public class ListAdapterPicturesContainers extends ArrayAdapter<PicturesContaine
             final ImageButton editButton = v.findViewById(R.id.edit_btn);
 
             if (tt1 != null) {
-                tt1.setText(currentPicturesContainer.getCategoryName());
+                tt1.setText(getCategoryNameInCorrectLanguage(currentPicturesContainer.getCategoryName()));
             }
 
             if (tt2 != null) {
@@ -192,6 +193,50 @@ public class ListAdapterPicturesContainers extends ArrayAdapter<PicturesContaine
                     }
                 })
                 .show();
+    }
+
+    String getCategoryNameInCorrectLanguage(String category){
+
+        String categoryNameInCorrectLanguage = "";
+        String language = Resources.getSystem().getConfiguration().locale.getLanguage();
+
+        if(language.equalsIgnoreCase("pl")) {
+            switch (category) {
+                case "Butterflies":
+                    categoryNameInCorrectLanguage = "Motyle";
+                    break;
+                case "Balls":
+                    categoryNameInCorrectLanguage = "Piłki";
+                    break;
+                case "Trains":
+                    categoryNameInCorrectLanguage = "Pociągi";
+                    break;
+                case "Cars":
+                    categoryNameInCorrectLanguage = "Samochody";
+                    break;
+                case "Planes":
+                    categoryNameInCorrectLanguage = "Samoloty";
+                    break;
+                case "Ships":
+                    categoryNameInCorrectLanguage = "Statki";
+                    break;
+                case "Suns":
+                    categoryNameInCorrectLanguage = "Słońca";
+                    break;
+                case "Custom":
+                    categoryNameInCorrectLanguage = "Twoje";
+                    break;
+                default:
+                    categoryNameInCorrectLanguage = category;
+            }
+        }
+        else{
+            categoryNameInCorrectLanguage = category;
+        }
+
+        return categoryNameInCorrectLanguage;
+
+
     }
 
 }
