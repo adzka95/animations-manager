@@ -69,6 +69,31 @@ public class StorageAnimationsManager {
 
         }
 
+        // Custom images. The folder is separated from the rest to make it
+        // easier to be found (sometimes directories created programmatically
+        // are not visible in Windows Explorer via USB connection)
+
+        File customPictures = new File(Environment.getExternalStorageDirectory(), "Custom");
+
+        if (customPictures.exists()) {
+
+            PicturesContainer picturesContainer = new PicturesContainer("Custom");
+
+            File[] pictureFilesInDirectory = customPictures.listFiles();
+
+            if(pictureFilesInDirectory != null) {
+                for (File pictureFile : pictureFilesInDirectory) {
+                    picturesContainer.addPicture(new Picture(pictureFile.getName(), pictureFile.getAbsolutePath(), picturesContainer));
+                }
+            }
+
+            externalStorageAssets.add(picturesContainer);
+
+        }
+
+
+
+
         return externalStorageAssets;
     }
 
