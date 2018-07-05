@@ -1,0 +1,4 @@
+*.log
+build/
+.gradle/
+4.1/
