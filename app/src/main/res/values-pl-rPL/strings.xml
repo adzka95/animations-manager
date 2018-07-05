@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="restore_default">Domyślne</string>
+    <string name="animationName">Przyjazne Animacje</string>
+    <string name="horizontal">POZIOMO</string>
+    <string name="vertical">PIONOWO</string>
+    <string name="spiral">SPIRALA</string>
+</resources>

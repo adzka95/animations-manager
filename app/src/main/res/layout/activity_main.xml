@@ -42,7 +42,7 @@
         android:layout_marginLeft="47dp"
         android:layout_marginStart="47dp"
         android:onClick="restoreDefaultStorage"
-        android:text="Domyślne"
+        android:text="@string/restore_default"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintStart_toStartOf="parent" />
 
@@ -50,7 +50,7 @@
         android:id="@+id/checkBoxUP_DOWN"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="PIONOWO"
+        android:text="@string/vertical"
         android:visibility="invisible"
         app:layout_constraintBaseline_toBaselineOf="@+id/checkBoxLEFT_TO_RIGHT"
         app:layout_constraintStart_toStartOf="@+id/newList" />
@@ -61,7 +61,7 @@
         android:layout_height="wrap_content"
         android:layout_marginLeft="15dp"
         android:layout_marginStart="15dp"
-        android:text="POZIOMO"
+        android:text="@string/horizontal"
         android:visibility="invisible"
         app:layout_constraintBaseline_toBaselineOf="@+id/checkBoxSPIRAL"
         app:layout_constraintStart_toEndOf="@+id/checkBoxUP_DOWN" />
@@ -73,7 +73,7 @@
         android:layout_marginBottom="46dp"
         android:layout_marginLeft="10dp"
         android:layout_marginStart="10dp"
-        android:text="SPIRALA"
+        android:text="@string/spiral"
         android:visibility="invisible"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintStart_toEndOf="@+id/checkBoxLEFT_TO_RIGHT" />

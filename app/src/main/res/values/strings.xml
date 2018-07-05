@@ -1,3 +1,7 @@
 <resources>
-    <string name="app_name">AnimationsLoader</string>
+    <string name="restore_default">Default</string>
+    <string name="animationName">Friendly Animations</string>
+    <string name="horizontal">HORIZONTAL</string>
+    <string name="vertical">VERTICAL</string>
+    <string name="spiral">SPIRAL</string>
 </resources>
