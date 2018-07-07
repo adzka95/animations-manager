@@ -57,7 +57,7 @@ public class ListAdapterPicturesContainers extends ArrayAdapter<PicturesContaine
             final ImageButton editButton = v.findViewById(R.id.edit_btn);
 
             if (tt1 != null) {
-                tt1.setText(getCategoryNameInCorrectLanguage(currentPicturesContainer.getCategoryName()));
+                tt1.setText(getCategoryName(currentPicturesContainer.getCategoryName()));
             }
 
             if (tt2 != null) {
@@ -162,8 +162,8 @@ public class ListAdapterPicturesContainers extends ArrayAdapter<PicturesContaine
         AlertDialog.Builder builder = new AlertDialog.Builder(context);
 
         builder
-                .setMessage("Are you sure?")
-                .setPositiveButton("Yes",  new DialogInterface.OnClickListener() {
+                .setMessage(context.getString(R.string.confirm_question))
+                .setPositiveButton(context.getString(R.string.confirm_yes),  new DialogInterface.OnClickListener() {
                     @Override
                     public void onClick(DialogInterface dialog, int id) {
                         // Yes-code
@@ -186,7 +186,7 @@ public class ListAdapterPicturesContainers extends ArrayAdapter<PicturesContaine
 
                     }
                 })
-                .setNegativeButton("No", new DialogInterface.OnClickListener() {
+                .setNegativeButton(context.getString(R.string.confirm_no), new DialogInterface.OnClickListener() {
                     @Override
                     public void onClick(DialogInterface dialog,int id) {
                         dialog.cancel();
@@ -195,47 +195,40 @@ public class ListAdapterPicturesContainers extends ArrayAdapter<PicturesContaine
                 .show();
     }
 
-    String getCategoryNameInCorrectLanguage(String category){
+    String getCategoryName(String category){
 
         String categoryNameInCorrectLanguage = "";
-        String language = Resources.getSystem().getConfiguration().locale.getLanguage();
 
-        if(language.equalsIgnoreCase("pl")) {
-            switch (category) {
-                case "Butterflies":
-                    categoryNameInCorrectLanguage = "Motyle";
-                    break;
-                case "Balls":
-                    categoryNameInCorrectLanguage = "Piłki";
-                    break;
-                case "Trains":
-                    categoryNameInCorrectLanguage = "Pociągi";
-                    break;
-                case "Cars":
-                    categoryNameInCorrectLanguage = "Samochody";
-                    break;
-                case "Planes":
-                    categoryNameInCorrectLanguage = "Samoloty";
-                    break;
-                case "Ships":
-                    categoryNameInCorrectLanguage = "Statki";
-                    break;
-                case "Suns":
-                    categoryNameInCorrectLanguage = "Słońca";
-                    break;
-                case "Custom":
-                    categoryNameInCorrectLanguage = "Twoje";
-                    break;
-                default:
-                    categoryNameInCorrectLanguage = category;
-            }
-        }
-        else{
-            categoryNameInCorrectLanguage = category;
+        switch (category) {
+            case "Butterflies":
+                categoryNameInCorrectLanguage = context.getString(R.string.category_name_butterflies);
+                break;
+            case "Balls":
+                categoryNameInCorrectLanguage = context.getString(R.string.category_name_balls);
+                break;
+            case "Trains":
+                categoryNameInCorrectLanguage = context.getString(R.string.category_name_trains);
+                break;
+            case "Cars":
+                categoryNameInCorrectLanguage = context.getString(R.string.category_name_cars);
+                break;
+            case "Planes":
+                categoryNameInCorrectLanguage = context.getString(R.string.category_name_planes);
+                break;
+            case "Ships":
+                categoryNameInCorrectLanguage = context.getString(R.string.category_name_ships);
+                break;
+            case "Suns":
+                categoryNameInCorrectLanguage = context.getString(R.string.category_name_suns);
+                break;
+            case "Custom":
+                categoryNameInCorrectLanguage = context.getString(R.string.category_name_custom);
+                break;
+            default:
+                categoryNameInCorrectLanguage = category;
         }
 
         return categoryNameInCorrectLanguage;
-
 
     }
 

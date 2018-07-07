@@ -136,8 +136,8 @@ public class ListAdapterPictures extends ArrayAdapter<Picture> {
         AlertDialog.Builder builder = new AlertDialog.Builder(context);
 
         builder
-                .setMessage("Are you sure?")
-                .setPositiveButton("Yes",  new DialogInterface.OnClickListener() {
+                .setMessage(context.getString(R.string.confirm_question))
+                .setPositiveButton(context.getString(R.string.confirm_yes),  new DialogInterface.OnClickListener() {
                     @Override
                     public void onClick(DialogInterface dialog, int id) {
                         // Yes-code
@@ -154,7 +154,7 @@ public class ListAdapterPictures extends ArrayAdapter<Picture> {
 
                     }
                 })
-                .setNegativeButton("No", new DialogInterface.OnClickListener() {
+                .setNegativeButton(context.getString(R.string.confirm_no), new DialogInterface.OnClickListener() {
                     @Override
                     public void onClick(DialogInterface dialog,int id) {
                         dialog.cancel();
